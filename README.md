@@ -57,7 +57,7 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="http://linkedin.com/in/aryanbhai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="http://linkedin.com/in/aryanbhai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aryanempire168@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Aryan_kumar_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
   <a href="https://github.com/Aryanromanreigns"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
