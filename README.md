@@ -42,16 +42,19 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Replace USERNAME in the three links below if you change your GitHub username -->
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanromanreigns&show_icons=true&theme=radical" alt="Aryan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanromanreigns&show_icons=true&theme=radical" />
 </p>
+
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanromanreigns&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aryanromanreigns&theme=dark" />
 </p>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanromanreigns&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanromanreigns&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
 
 ---
 
