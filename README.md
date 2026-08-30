@@ -44,10 +44,6 @@
 
 ## 📊 GitHub Stats
 
- <p/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aryanromanreigns&show_icons=true&theme=radical" /> -->
-<!-- </p>  -->
-
 <p>
   <img src="https://streak-stats.demolab.com?user=Aryanromanreigns&theme=dark" />
 </p>
@@ -56,16 +52,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanromanreigns&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
+---
 
+## 🐍 My Contributions
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me
+
 <p>
-  <a href="http://linkedin.com/in/aryanbhai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aryanempire168@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Aryan_kumar_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
-  <a href="https://github.com/Aryanromanreigns"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="http://linkedin.com/in/aryanbhai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aryanempire168@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Aryan_kumar_05/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aryanromanreigns">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
